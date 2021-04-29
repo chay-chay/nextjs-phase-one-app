@@ -1,6 +1,6 @@
 # Next.js Phase One
 
-1. clone repo usin SHH. Note - do not use http because it will be deprecate very soon
+1. clone repo using SHH. Note - do not use http because it will be deprecated very soon.
 
 ```
 // ssh
