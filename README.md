@@ -1,3 +1,35 @@
+# Next.js Phase One
+
+1. clone repo usin SHH. Note - do not use http because it will be deprecate very soon
+
+```
+// ssh
+git clone git@github.com:ChimCollective/nextjs-phase-one-app.git
+
+```
+
+2. Don't forget to install those dependencies! Install with yarn or npm
+
+```
+// install dependencies with yarn
+yarn
+
+// OR install dependencies with npm
+npm i
+
+```
+
+3. To work on this project. </br>
+   From the 'main' branch -> create 'your feature branch'
+
+```
+git checkout -b yourName_yourFeature
+```
+
+### --------------------------------------
+
+## General Info
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
